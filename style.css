@@ -1,0 +1,18 @@
+html {
+    font-family: "Droid Sans Mono", sans-serif;
+}
+
+.hero {
+    background-image: url("./assets/header.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+div.shadow-bg {
+    background-color: rgba(22,22,22,0.5);
+    border-radius: 10px;
+}
+.splide__slide img {
+  width: 100%;
+  height: auto;
+}
